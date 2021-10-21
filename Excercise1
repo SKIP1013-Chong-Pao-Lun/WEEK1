@@ -1,0 +1,17 @@
+package myInfo;
+
+class Personal {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("NAME : CHONG PAO LUN");
+	System.out.println("NO.MATRIX : 284508");
+	System.out.println("COURSE : COMPUTER SCIENCE");
+	System.out.println("UNIVERSITY : UUM");
+	System.out.println("ADDRESS : NO 40,LALUAN LAPANGAN8,TAMAN SRI PERKASA,31650,IPOH,PERAK");
+	System.out.println("FATHER'S NAME : CHONG HOCK PING");
+	System.out.println("MOTHER'S NAME : TAN SAW KIM");
+	
+
+}
+}
